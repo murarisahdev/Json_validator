@@ -13,5 +13,5 @@ This is a simple Python script designed to validate JSON data and to find out nu
 3. Run the script using the following command:
 
    ```bash
-   python validator.py
+   python json_validator.py
    ```
